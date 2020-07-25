@@ -2,17 +2,16 @@
 
 ### Full stack web developer
 
-<a href="https://github.com/anuraghazra/github-readme-stats"  >
-<img align=center src=https://github-readme-stats.vercel.app/api?username=2imad&count_private=true&show_icons=true&theme=dracula >
-</a>  
-
-
+<a href="https://github.com/2imad/2imad"  >
+<img align=center width="100%" src=https://github-readme-stats.vercel.app/api?username=2imad&count_private=true&show_icons=true&theme=dracula >
+</a>
+<br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-<img align=right src="https://github-readme-stats.vercel.app/api/pin/?username=2imad&repo=auto-react-context&show_owner=true">
+<img align=righ width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=2imad&repo=auto-react-context&show_owner=true&show_icons=true&theme=dracula">
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2imad)](https://github.com/2imad/github-readme-stats)
+<img align=left width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imad&show_icons=true&theme=dracula">
+</a>
 
 <!--
 **2imad/2imad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
