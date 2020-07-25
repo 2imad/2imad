@@ -1,4 +1,4 @@
-<img align=center width="100%" src=banner.png >
+<img align=center width="100%" src="banner.png" >
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
