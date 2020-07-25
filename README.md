@@ -3,7 +3,7 @@
 ### Full stack web developer
 
 <a href="https://github.com/2imad/2imad"  >
-<img align=center width="100%" src=https://github-readme-stats.vercel.app/api?username=2imad&count_private=true&show_icons=true&theme=dracula >
+<img align=center  src=https://github-readme-stats.vercel.app/api?username=2imad&count_private=true&show_icons=true&theme=dracula >
 </a>
 <br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
