@@ -1,7 +1,5 @@
-<a>
 <img align=center width="100%" src=banner.png >
-</a>
-<br/><br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
 <img align=righ width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=2imad&repo=auto-react-context&show_owner=true&show_icons=true&theme=dracula">
