@@ -1,6 +1,6 @@
 <div align="center">
 
-![ScreenShot](banner.png)
+<img src="banner.png"/>
 
 </div>
 
