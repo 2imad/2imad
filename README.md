@@ -1,8 +1,11 @@
-<div align="center">
+```Javascript
 
-<img src="banner.png"/>
 
-</div>
+
+
+
+
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
