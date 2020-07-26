@@ -1,4 +1,8 @@
-<img align="center" src="banner.png" height="200px" width="600px" />
+<div align="center">
+
+![ScreenShot](banner.png)
+
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
