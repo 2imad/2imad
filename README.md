@@ -12,5 +12,5 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with : need a team to setup a new project idea
 - 💬 Ask me about Javascript - React - Angular - Azure - Blockchain
-- 📫 How to reach me: contact@bemoore.be || twitter : @iyo_bemoore
+- 📫 How to reach me: contact@bemoore.be || twitter : @BemooreBe
 
